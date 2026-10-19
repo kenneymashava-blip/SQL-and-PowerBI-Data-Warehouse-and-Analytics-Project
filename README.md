@@ -38,3 +38,11 @@ Whereas, the Advanced Data Analysis includes:
 This is the final stage of the project. 
 The datasets **Dimension_Product View, Dimension_Customer View ,Fact View, Customer_Report View and Product_report View** developed in the previous two stages are converted back to csv files and loaded into PowerBI. The star schema model is developed inside PowerBI by connecting the primary keys from the dimension views (Dimension_Product View, Dimension_Customer View) to the fact views (Fact View, Customer_Report View and Product_report View). 
 Finally two Dashboards: **Product Report Overview** and **Customer Report Overview** are developed using PowerBI.
+
+## Dashboards screen recording
+
+https://github.com/user-attachments/assets/08af4f18-7dd1-43e7-8f0c-c8b507ddf352
+
+
+
+
