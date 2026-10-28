@@ -43,6 +43,9 @@ Finally two Dashboards: **Product Report Overview** and **Customer Report Overvi
 
 https://github.com/user-attachments/assets/08af4f18-7dd1-43e7-8f0c-c8b507ddf352
 
+## References
+**[Data with Baraa]https://www.youtube.com/watch?v=2jGhQpbzHes&list=PLNcg_FV9n7qZ4Ym8ZriYT6WF8TaC2e_R7&index=5**
 
+**[Data with Barra]https://www.youtube.com/watch?v=6cJ5Ji8zSDg&list=PLNcg_FV9n7qZ4Ym8ZriYT6WF8TaC2e_R7&index=4**
 
 
