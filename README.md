@@ -4,7 +4,7 @@ Welcome to the **data warehouse and Analytics project** repository!
 
 This project is divided into three sections:
 - **SQL Data Warehouse development**.
-- **SQL Exploratory Data Analysis(EDA)** and Advanced Data Analysis.
+- **SQL Exploratory Data Analysis(EDA) and Advanced Data Analysis.**
 - **PowerBI Dashboard Development**.
 
 ## SQL Data Warehouse development.
